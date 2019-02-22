@@ -26,6 +26,8 @@ The barrier for solving the second version of the environment is slightly differ
 - This yields an average score for each episode (where the average is over all 20 agents).
 </br>
 Both environments are considered solved, when the average (over 100 episodes) of those average scores is at least +30.
+</br>
+And for this experiment was choosed only to focus on the environment with only one agent.
 
 ### Getting Started
 #### 1: Activate the Environment
